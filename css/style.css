@@ -1,0 +1,219 @@
+* {
+    /* outline: 1px solid tomato; */
+}
+
+.main_visual {
+    padding: 120px 0;
+}
+
+.main_visual .tit {
+    margin: 0 auto 40px auto;
+    max-width: 1170px;
+}
+
+.main_visual .tit h2 {
+    margin: 0 0 16px 0;
+
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'GmarketSans';
+}
+
+.main_visual .tit p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.main_visual .inner {
+    display: flex;
+    gap: 30px;
+
+
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.main_visual .inner>* {
+    flex: 1;
+}
+
+
+
+
+
+
+
+
+.main_product {
+    padding: 120px 0;
+    background: #f9f9f9;
+}
+
+.main_product .tit {
+    max-width: 1170px;
+    margin: 0 auto 40px auto;
+}
+
+.main_product .tit h2 {
+    margin: 0 0 16px 0;
+
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'GmarketSans';
+}
+
+.main_product .tit p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.main_product .inner {
+    display: flex;
+    gap: 30px;
+
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.main_product .inner>* {
+    flex: 1;
+}
+
+
+
+
+
+
+
+
+.main_content {
+    padding: 120px 0;
+}
+
+.main_content .inner {
+    display: flex;
+    gap: 30px;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.main_content .inner>* {
+    flex: 1;
+}
+
+.main_content .inner .tit {
+    padding: 16px 0 0 0;
+}
+
+.main_content .inner .tit h2 {
+    margin: 0 0 16px 0;
+
+    line-height: 40px;
+
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'GmarketSans';
+}
+
+.main_content .inner .tit p {
+    line-height: 20px;
+
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.main_content .inner .right img {
+    border-radius: 16px;
+}
+
+
+
+
+
+
+
+
+.sub_content {
+    padding: 120px 0;
+    background: #f9f9f9;
+}
+
+.sub_content .inner {
+    display: flex;
+    gap: 30px;
+
+    margin: 0 auto;
+    max-width: 1170px;
+}
+
+.sub_content .inner>* {
+    flex: 1;
+}
+
+.sub_content .inner .tit {
+    padding: 16px 0 0 0;
+}
+
+.sub_content .inner .tit h2 {
+    margin: 0 0 16px 0;
+
+    line-height: 40px;
+
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'GmarketSans';
+}
+
+.sub_content .inner .tit p {
+    line-height: 20px;
+
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.sub_content .inner .img_box {
+    order: -1;
+}
+
+.sub_content .inner .img_box img {
+    border-radius: 16px;
+}
+
+
+
+
+
+
+.sub_product {
+    padding: 120px 0;
+}
+
+.sub_product .tit {
+    margin: 0 0 40px 0;
+}
+
+.sub_product .tit h2 {
+    margin: 0 0 16px 0;
+
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'GmarketSans';
+
+    text-align: center;
+}
+
+.sub_product .tit p {
+    font-size: 16px;
+    font-weight: 400;
+
+    text-align: center;
+}
+
+.sub_product .inner {
+    display: flex;
+    gap: 30px;
+}
+
+.sub_product .inner figure {
+    flex: 1;
+}
